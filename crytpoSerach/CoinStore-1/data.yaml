@@ -1,0 +1,14 @@
+names:
+- cocacola
+- fanta
+- sprite
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: coinstore
+  url: https://universe.roboflow.com/eunbin/coinstore/dataset/1
+  version: 1
+  workspace: eunbin
+test: D:\AIminiConPy\CoinStore-1\test\images
+train: D:\AIminiConPy\CoinStore-1\train\images
+val: D:\AIminiConPy\CoinStore-1\valid\images
